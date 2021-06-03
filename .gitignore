@@ -1,0 +1,4 @@
+*.pyc
+*.idea
+instance/
+_site/
