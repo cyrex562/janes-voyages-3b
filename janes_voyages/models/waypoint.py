@@ -58,4 +58,3 @@ class Waypoint:
         node = self.find()
         location_node = location.find()
         rel = Relationship(location_node, "LOCATION", node)
-        
